@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dynamodel-demo/demo-dynamodel/demo-dynamodel.iml" filepath="$PROJECT_DIR$/dynamodel-demo/demo-dynamodel/demo-dynamodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamodel-common/dynamodel-common.iml" filepath="$PROJECT_DIR$/dynamodel-common/dynamodel-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamodel-demo/dynamodel-demo.iml" filepath="$PROJECT_DIR$/dynamodel-demo/dynamodel-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamodel-parent.iml" filepath="$PROJECT_DIR$/dynamodel-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamodel/hummer-dynamodel.iml" filepath="$PROJECT_DIR$/dynamodel/hummer-dynamodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hummer-parent.iml" filepath="$PROJECT_DIR$/hummer-parent.iml" />
+    </modules>
+  </component>
+</project>
